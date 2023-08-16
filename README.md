@@ -1,2 +1,2 @@
 # ScaraRobot_forwardkinematics
-You can find the SimMechanics files for forward simulation of the Scara robot. As well as that, there are some .m files which include code for forward simulation and homogonous matrices.
+You can find the SimMechanics files for the forward simulation of the Scara robot (.slx file). As well as that, there are some .m files that include code for forward simulation and homogenous matrices.
